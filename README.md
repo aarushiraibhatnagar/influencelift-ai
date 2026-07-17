@@ -275,6 +275,39 @@ python -m compileall src api app scripts
 - [ ] Evidently drift reports
 - [ ] Constrained campaign-budget optimisation
 
+
+## Portfolio collaboration
+
+InfluenceLift AI combines marketing analytics, portfolio positioning,
+and production-style machine-learning engineering.
+
+### Aarushi Rai
+
+- Marketing-use-case framing and business positioning
+- Interpretation of campaign reach, engagement, spend, content quality, and sales
+- Campaign scenario and decision-support framing
+- Recruiter-facing portfolio storytelling and marketing communication
+
+### Mohit Bhatnagar
+
+- Data cleaning and auditable data-quality policies
+- Statistical modelling, cross-validation, and model selection
+- Machine-learning pipeline and prediction intervals
+- Streamlit and FastAPI implementation
+- Testing, Docker, CI/CD, deployment, and technical documentation
+
+[Read Aarushi Rai's complete portfolio case study](AARUSHI_PORTFOLIO_CASE_STUDY.md)
+
+### Portfolio resources
+
+- [System Design Portfolio Defense Guide](portfolio-assets/pdf/System_Design_Portfolio_Defense_Guide.pdf)
+- [Coding Guide](portfolio-assets/pdf/Coding_Guide.pdf)
+- [Coding Interview Workbook](portfolio-assets/pdf/Coding_Interview_Workbook.pdf)
+- [Interview Question Bank](portfolio-assets/pdf/Interview_Question_Bank.pdf)
+- [Portfolio Playbook](portfolio-assets/pdf/Portfolio_Playbook.pdf)
+- [System Design Diagram Pack](portfolio-assets/pdf/System_Design_Diagram_Pack.pdf)
+- [LinkedIn Marketing Kit](portfolio-assets/pdf/LinkedIn_Marketing_Kit.pdf)
+
 ## Author
 
 **Mohit Bhatnagar** — Data Scientist
